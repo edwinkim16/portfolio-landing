@@ -1,0 +1,62 @@
+.sect1{
+    background-color: #242582;
+    color: white;
+   align-items: center;
+   font-weight: bold;
+   display:flex;
+   flex-direction: column;
+  
+}
+#img{
+   border: 1px solid grey;
+   border-radius: 20%;
+   box-shadow: 0px 0px 20px #ff625f;
+}
+.sect2 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bold;
+    background-color: orange;
+}
+.row{
+    border: 15px solid whitesmoke;
+    border-radius: 2px;
+    opacity: 0.9;
+    font-size: large;
+    box-shadow: 2px 2px 5px grey;
+    margin-top: 0;
+    background-color: silver;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: maroon;
+    color: white;
+    font-size: large;
+}
+#job{
+    width: fit-content;
+}
+#prog{
+    width: fit-content;
+}
+#hobbies{
+    width: fit-content;
+}
+ul{
+    list-style: none;
+}
+h1{
+    margin-top: 2%;
+    text-align: center;
+    color: magenta;
+    font-weight: bold;
+}
+.card-footer{
+    margin-top: 2%;
+}
+.sect1 h1{
+    color: white;
+}
