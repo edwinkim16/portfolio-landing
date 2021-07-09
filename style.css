@@ -1,0 +1,12 @@
+.sect1{
+    background-color: #242582;
+    color: white;
+   align-items: center;
+   font-weight: bold;
+   display:flex;
+   flex-direction: column;
+  
+}
+#img{
+   
+}
