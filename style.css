@@ -20,16 +20,21 @@
     background-color: orange;
 }
 .row{
-    background-color: maroon;
+    border: 15px solid whitesmoke;
+    border-radius: 2px;
     opacity: 0.9;
     font-size: large;
-    color: white;
+    box-shadow: 2px 2px 5px grey;
     margin-top: 0;
+    background-color: silver;
 }
 .about{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    background-color: maroon;
+    color: white;
+    font-size: large;
 }
 #job{
     width: fit-content;
@@ -42,4 +47,13 @@
 }
 ul{
     list-style: none;
+}
+h1{
+    margin-top: 2%;
+    text-align: center;
+    color: magenta;
+    font-weight: bold;
+}
+.card-footer{
+    margin-top: 2%;
 }
