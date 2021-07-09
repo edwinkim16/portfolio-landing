@@ -26,3 +26,20 @@
     color: white;
     margin-top: 0;
 }
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#job{
+    width: fit-content;
+}
+#prog{
+    width: fit-content;
+}
+#hobbies{
+    width: fit-content;
+}
+ul{
+    list-style: none;
+}
